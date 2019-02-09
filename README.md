@@ -1,7 +1,7 @@
 # word-guesser
 This is a genetic algorithm that guesses a target word.
 
-#Things that you need in order to make this work.
+# Things that you need in order to make this work.
 -python you can find it at https://www.python.org
 
 # if you are using a windows computer 
